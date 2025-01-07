@@ -1,0 +1,7 @@
+flask==2.2.2
+scikit-learn==1.1.1
+pandas==1.4.3
+seaborn==0.11.2
+matplotlib==3.5.2
+flask-cors
+
