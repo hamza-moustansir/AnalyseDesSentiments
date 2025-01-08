@@ -2,6 +2,8 @@
 
 Build a COMPLETE Analyse Des Sentiments App with React, Flask, Ai
 
+| ![Image 1](interface.png) |
+
 ### Installing
 
 To run only the client, run:
